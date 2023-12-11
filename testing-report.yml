@@ -20,6 +20,10 @@
   status: pass
 
 - summary: |
+    Проверка работы фильтра по наличию
+  status: pass
+
+- summary: |
     Проверка работы фильтра по цене товара
   status: pass
 
